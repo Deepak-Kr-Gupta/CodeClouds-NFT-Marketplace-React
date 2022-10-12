@@ -171,13 +171,13 @@ function App() {
                         >
                             Withdraw Money from Contract
                  </button> */}
-                 <button 
+                 {/* <button 
                             onClick={() => {
                               CountNFT();
                             }}
                         >
                             CodeClouds NFT Count
-                 </button>
+                 </button> */}
           
         </div>
 
