@@ -1,0 +1,50 @@
+{
+	"name": "CodeClouds NFT 1",
+	"description": "Grab the FREE CodeClouds NFT, You can claim X% of discount on your total order value during checkout on any of our WooCommerce Stores if you hold the CodeClouds NFT in your wallet.",
+	"external_url": "https://www.codeclouds.com/", 
+	"image": "https://gateway.pinata.cloud/ipfs/QmQTSByCuj8soPZxNFgouwvjZ7LmSgrrDRfTDUvxkmHAPY/cc-nft-5.png", 
+	"attributes": [
+	{
+	  "trait_type": "Base", 
+	  "value": "Starfish"
+	}, 
+	{
+	  "trait_type": "Eyes", 
+	  "value": "Big"
+	}, 
+	{
+	  "trait_type": "Mouth", 
+	  "value": "Surprised"
+	}, 
+	{
+	  "trait_type": "Level", 
+	  "value": 5
+	}, 
+	{
+	  "trait_type": "Stamina", 
+	  "value": 1.4
+	}, 
+	{
+	  "trait_type": "Personality", 
+	  "value": "Sad"
+	}, 
+	{
+	  "display_type": "boost_number", 
+	  "trait_type": "Aqua Power", 
+	  "value": 40
+	}, 
+	{
+	  "display_type": "boost_percentage", 
+	  "trait_type": "Stamina Increase", 
+	  "value": 10
+	}, 
+	{
+	  "display_type": "number", 
+	  "trait_type": "Generation", 
+	  "value": 2
+	},
+	{
+		"trait_type":"Creator","value":"Deepak Gupta"
+	}
+	]
+}
